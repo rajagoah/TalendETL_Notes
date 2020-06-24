@@ -1,0 +1,5 @@
+Talend notes:
+
+1. To import sources --
+	for Flat files
+	Metadata >> File xxx (where xxx = delimited / positional / regex / html / excel)
