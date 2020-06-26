@@ -1,0 +1,9 @@
+Talend notes:
+
+1. To import sources --
+	for Flat files
+	Metadata >> File xxx (where xxx = delimited / positional / regex / html / excel)
+
+2. Talend Studio Main Window is the interface where one can manage all types of data integration processes
+3. Highest level of hierarchy --> Project > Jobs
+4. 
