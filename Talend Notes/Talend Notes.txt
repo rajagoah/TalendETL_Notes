@@ -6,4 +6,8 @@ Talend notes:
 
 2. Talend Studio Main Window is the interface where one can manage all types of data integration processes
 3. Highest level of hierarchy --> Project > Jobs
-4. 
+4. Palette --> contains all the components needed for building jobs
+5. Design workspace --> place where the jobs are designed (2 tabs, Designer / Code)
+6. Configuration tabs --> job related config / context related config / component related config
+7. Outline View & Code viewer --> only outline of the component selected is shown
+8. ??? What is a Business Model in Talend????
