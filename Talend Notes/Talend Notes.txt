@@ -11,3 +11,13 @@ Talend notes:
 6. Configuration tabs --> job related config / context related config / component related config
 7. Outline View & Code viewer --> only outline of the component selected is shown
 8. ??? What is a Business Model in Talend????
+9. TMap component used to perform look up.
+
+Dense Rank vs Rank
+Rank --> the Rank() function will assign same rank to ties, with the next rank skipped.
+Dense Rank. --> The dense_rank() will assign same rank to ties, but continues sequential ranking for rows after the tie
+
+Window Functions
+Windowing clauses provide a sliding or an anchored view of the data.
+When the over() clause has simply an ORDER BY clause then the view produced is an anchored view where the 1st record till the current record are processed by the analytical function.
+When there are Window clause explicitly mentioned (Like ROW 2 PRECEDING) then, a sliding view is produced.
